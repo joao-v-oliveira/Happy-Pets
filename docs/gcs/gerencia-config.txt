@@ -1,3 +1,6 @@
+# versão 1.1 do arquivo (criação)
+
 # versão 1.0.2 do arquivo (criação)
 
 esta versão foi feita pela branch master
+
